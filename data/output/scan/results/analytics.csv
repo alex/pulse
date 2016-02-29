@@ -310,14 +310,14 @@ drywallresponse.gov,drywallresponse.gov,False
 dsac.gov,dsac.gov,False
 dtv.gov,dtv.gov,False
 e-qip.gov,e-qip.gov,False
-eac.gov,eac.gov,False
+eac.gov,eac.gov,True
 eaclearinghouse.gov,eaclearinghouse.gov,False
 earmarks.gov,earmarks.gov,False
 earthquake.gov,earthquake.gov,False
 ecfr.gov,ecfr.gov,False
 economicinclusion.gov,economicinclusion.gov,False
 econsumer.gov,econsumer.gov,True
-ecopartnerships.gov,ecopartnerships.gov,True
+ecopartnerships.gov,ecopartnerships.gov,False
 ecpic.gov,ecpic.gov,True
 ecr.gov,ecr.gov,False
 ed.gov,ed.gov,True
@@ -734,7 +734,7 @@ literacy.gov,literacy.gov,False
 llis.gov,llis.gov,False
 llnl.gov,llnl.gov,False
 lmrcouncil.gov,lmrcouncil.gov,True
-lmvsci.gov,lmvsci.gov,True
+lmvsci.gov,lmvsci.gov,False
 loc.gov,loc.gov,False
 locatorplus.gov,locatorplus.gov,False
 locimages.gov,locimages.gov,False
@@ -890,7 +890,7 @@ nrd.gov,nrd.gov,False
 nrel.gov,nrel.gov,False
 nrelhub.gov,nrelhub.gov,False
 nro.gov,nro.gov,True
-nrojr.gov,nrojr.gov,False
+nrojr.gov,nrojr.gov,True
 nsa.gov,nsa.gov,False
 nsep.gov,nsep.gov,False
 nsf.gov,nsf.gov,True
@@ -1026,7 +1026,7 @@ ratb.gov,ratb.gov,False
 rcfl.gov,rcfl.gov,False
 reachhigher.gov,reachhigher.gov,False
 read.gov,read.gov,False
-ready.gov,ready.gov,False
+ready.gov,ready.gov,True
 readybusiness.gov,readybusiness.gov,False
 reaganlibrary.gov,reaganlibrary.gov,True
 realestatesales.gov,realestatesales.gov,True
@@ -1046,7 +1046,7 @@ reportband.gov,reportband.gov,False
 republicans.gov,republicans.gov,False
 research.gov,research.gov,False
 restorethegulf.gov,restorethegulf.gov,False
-rivers.gov,rivers.gov,False
+rivers.gov,rivers.gov,True
 rl.gov,rl.gov,False
 robodeidentidad.gov,robodeidentidad.gov,True
 rocis.gov,rocis.gov,True
@@ -1322,7 +1322,7 @@ weather.gov,weather.gov,True
 webharvest.gov,webharvest.gov,False
 welcometousa.gov,welcometousa.gov,False
 wethepeople.gov,wethepeople.gov,False
-wh.gov,wh.gov,False
+wh.gov,wh.gov,True
 whaging.gov,whaging.gov,False
 whistleblower.gov,whistleblower.gov,False
 whistleblowers.gov,whistleblowers.gov,True
