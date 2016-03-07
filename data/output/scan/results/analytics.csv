@@ -195,7 +195,7 @@ climate.gov,climate.gov,True
 climatechange.gov,climatechange.gov,False
 clinicaltrial.gov,clinicaltrial.gov,False
 clinicaltrials.gov,clinicaltrials.gov,False
-clintonlibrary.gov,clintonlibrary.gov,True
+clintonlibrary.gov,clintonlibrary.gov,False
 cloud.gov,cloud.gov,True
 clubdrugs.gov,clubdrugs.gov,False
 cms.gov,cms.gov,False
@@ -367,7 +367,7 @@ export.gov,export.gov,True
 exrwh.gov,exrwh.gov,False
 eyenote.gov,eyenote.gov,False
 faa.gov,faa.gov,True
-faasafety.gov,faasafety.gov,False
+faasafety.gov,faasafety.gov,True
 faca.gov,faca.gov,False
 facadatabase.gov,facadatabase.gov,True
 fafsa.gov,fafsa.gov,False
@@ -572,14 +572,14 @@ hanford.gov,hanford.gov,False
 harp.gov,harp.gov,False
 hc.gov,hc.gov,False
 hcqualitycommission.gov,hcqualitycommission.gov,False
-health.gov,health.gov,False
+health.gov,health.gov,True
 healthcare.gov,healthcare.gov,False
 healthdata.gov,healthdata.gov,False
-healthfinder.gov,healthfinder.gov,False
+healthfinder.gov,healthfinder.gov,True
 healthindicators.gov,healthindicators.gov,False
 healthit.gov,healthit.gov,True
 healthreform.gov,healthreform.gov,False
-healthypeople.gov,healthypeople.gov,False
+healthypeople.gov,healthypeople.gov,True
 hearttruth.gov,hearttruth.gov,False
 helpingamericasyouth.gov,helpingamericasyouth.gov,False
 helpwithmybank.gov,helpwithmybank.gov,True
@@ -734,7 +734,7 @@ literacy.gov,literacy.gov,False
 llis.gov,llis.gov,False
 llnl.gov,llnl.gov,False
 lmrcouncil.gov,lmrcouncil.gov,True
-lmvsci.gov,lmvsci.gov,False
+lmvsci.gov,lmvsci.gov,True
 loc.gov,loc.gov,False
 locatorplus.gov,locatorplus.gov,False
 locimages.gov,locimages.gov,False
@@ -742,7 +742,7 @@ locstore.gov,locstore.gov,False
 loctps.gov,loctps.gov,False
 longtermcare.gov,longtermcare.gov,False
 lookstoogoodtobetrue.gov,lookstoogoodtobetrue.gov,False
-lowermississippivalleyscience.gov,lowermississippivalleyscience.gov,True
+lowermississippivalleyscience.gov,lowermississippivalleyscience.gov,False
 lps.gov,lps.gov,False
 lsc.gov,lsc.gov,False
 macpac.gov,macpac.gov,False
@@ -752,7 +752,7 @@ majoritywhip.gov,majoritywhip.gov,False
 makinghomeaffordable.gov,makinghomeaffordable.gov,False
 malwareinvestigator.gov,malwareinvestigator.gov,False
 manufacturing.gov,manufacturing.gov,True
-mapaplanet.gov,mapaplanet.gov,False
+mapaplanet.gov,mapaplanet.gov,True
 mapstats.gov,mapstats.gov,False
 marine.gov,marine.gov,False
 marinecadastre.gov,marinecadastre.gov,True
@@ -1026,7 +1026,7 @@ ratb.gov,ratb.gov,False
 rcfl.gov,rcfl.gov,False
 reachhigher.gov,reachhigher.gov,False
 read.gov,read.gov,False
-ready.gov,ready.gov,True
+ready.gov,ready.gov,False
 readybusiness.gov,readybusiness.gov,False
 reaganlibrary.gov,reaganlibrary.gov,True
 realestatesales.gov,realestatesales.gov,True

@@ -1,5 +1,5 @@
 {
-  "command": "./scan https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/2016-01-19-federal.csv --scan=inspect,tls,analytics --analytics=https://analytics.usa.gov/data/live/second-level-domains.csv --debug --force --sort --output=/opt/scan/reports/federal-2016-02-26/",
-  "end_time": "2016-02-27T15:53:29Z",
-  "start_time": "2016-02-26T06:47:05Z"
+  "command": "./scan https://raw.githubusercontent.com/GSA/data/gh-pages/dotgov-domains/2016-01-19-federal.csv --scan=inspect,tls,sslyze,analytics --analytics=https://analytics.usa.gov/data/live/second-level-domains.csv --debug --force --sort --output=/opt/scan/reports/federal-2016-03-03/",
+  "end_time": "2016-03-04T23:01:58Z",
+  "start_time": "2016-03-03T14:21:00Z"
 }
