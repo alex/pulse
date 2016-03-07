@@ -2,3 +2,8 @@
 .sass-cache/
 todo.txt
 
+/deploy
+/app
+__init__.pyc
+__pycache__
+db.json
